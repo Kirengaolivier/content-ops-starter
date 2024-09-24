@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: A Full-Stack Developer
       color: text-dark
       type: TitleBlock
     subtitle: >-
