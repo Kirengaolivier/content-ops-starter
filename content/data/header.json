@@ -70,7 +70,7 @@
                 },
                 {
                     "type": "Link",
-                    "altText": "GitHub",
+                    "altText": "USSD Development",
                     "url": "/ussd development",
                     "showIcon": true,
                     "icon": "github",
