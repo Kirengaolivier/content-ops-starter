@@ -76,7 +76,8 @@
                     "icon": "github",
                     "iconPosition": "left",
                     "style": "secondary",
-                    "elementId": ""
+                    "elementId": "",
+                    "label": "USSD Development"
                 }
             ],
             "labelStyle": "secondary",
