@@ -69,7 +69,7 @@ sections:
       color: text-neutral
       styles:
         self:
-          textAlign: right
+          textAlign: center
           fontWeight: 700
       type: Badge
     elementId: ''
