@@ -70,6 +70,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: Badge
     elementId: ''
     variant: two-col-grid
