@@ -7,9 +7,7 @@ sections:
       text: A Full-Stack Developer
       color: text-neutral
       type: TitleBlock
-    subtitle: >-
-      I'm Olivier Kirenga, a full-stack developer, Website Developer,  mobile
-      software developer & USSD developer
+    subtitle: ''
     text: ''
     actions:
       - label: ABOUT ME
