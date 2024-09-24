@@ -64,6 +64,13 @@ sections:
         style: primary
         elementId: ''
         type: Button
+      - type: Link
+        label: About
+        altText: About
+        url: /about
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
     badge:
       label: ABOUT ME
       color: text-neutral
