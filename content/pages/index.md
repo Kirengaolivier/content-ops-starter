@@ -55,7 +55,7 @@ sections:
     subtitle: "I'm Olivier Kirenga, a software developer based in Rwanda and I'm currently a graduate at\_Rwanda Polytechnic / HUYE College. I'm a full stack developer who has every knowledge required to work on both application ends. I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences."
     items: []
     actions:
-      - label: Le
+      - label: Contact Me Now
         altText: ''
         url: /
         showIcon: false
