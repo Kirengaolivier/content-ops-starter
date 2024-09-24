@@ -17,7 +17,7 @@ sections:
         url: /
         showIcon: false
         icon: chevronBigRight
-        iconPosition: left
+        iconPosition: right
         style: primary
         elementId: ''
         type: Button
