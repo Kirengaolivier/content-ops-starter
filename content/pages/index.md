@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        I'm Olivier KIRENGA, a full-stack developer &  a mobile software and
-        USSD developer
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: >-
