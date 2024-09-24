@@ -18,7 +18,7 @@ sections:
         showIcon: false
         icon: chevronBigRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
         type: Button
     media:
