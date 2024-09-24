@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: "I'm\_Ernes Ntezirizaza, a Full Stack web & Mobile Software Developer"
+      text: I'm Olivier KIRENGA
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
