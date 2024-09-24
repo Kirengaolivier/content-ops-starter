@@ -16,7 +16,7 @@ sections:
         altText: ''
         url: /
         showIcon: false
-        icon: arrowRight
+        icon: chevronBigRight
         iconPosition: right
         style: secondary
         elementId: ''
