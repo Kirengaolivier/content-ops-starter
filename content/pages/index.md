@@ -52,7 +52,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: "I'm Olivier Kirenga, a software developer based in Rwanda and I'm currently a graduate at\_Rwanda Polytechnique / HUYE College. I'm a full stack developer who has every knowledge required to work on both application ends. I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences."
+    subtitle: "I'm Olivier Kirenga, a software developer based in Rwanda and I'm currently a graduate at\_Rwanda Polytechnic / HUYE College. I'm a full stack developer who has every knowledge required to work on both application ends. I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences."
     items:
       - type: FeaturedItem
         title: 500k
