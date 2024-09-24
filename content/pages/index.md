@@ -46,7 +46,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Who m I ?
+      text: Who am I ?
       color: text-dark
       styles:
         self:
