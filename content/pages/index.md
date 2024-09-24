@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: A full-stack developer
       color: text-primary
       type: Badge
     elementId: ''
