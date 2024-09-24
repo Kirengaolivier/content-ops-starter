@@ -67,6 +67,16 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
+                },
+                {
+                    "type": "Link",
+                    "altText": "Facebook",
+                    "url": "/",
+                    "showIcon": true,
+                    "icon": "facebook",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
