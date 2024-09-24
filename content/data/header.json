@@ -67,6 +67,16 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
+                },
+                {
+                    "type": "Link",
+                    "altText": "GitHub",
+                    "url": "/ussd development",
+                    "showIcon": true,
+                    "icon": "github",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
