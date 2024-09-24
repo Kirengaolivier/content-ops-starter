@@ -33,7 +33,7 @@
         },
         {
             "label": "My Skills",
-            "altText": "Careers page",
+            "altText": "My Skills",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
