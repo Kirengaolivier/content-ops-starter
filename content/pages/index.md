@@ -8,7 +8,7 @@ sections:
       color: text-neutral
       type: TitleBlock
     subtitle: >-
-      I'm Olivier KIRENGA, a full-stack developer, Website Developer,  mobile
+      I'm Olivier Kirenga, a full-stack developer, Website Developer,  mobile
       software developer & USSD developer
     text: ''
     actions:
