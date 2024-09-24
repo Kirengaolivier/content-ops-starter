@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        I'm Olivier KIRENGA, a full-stack developer, a mobile application and
+        I'm Olivier KIRENGA, a full-stack developer &  a mobile software and
         USSD developer
       color: text-dark
       type: TitleBlock
