@@ -87,7 +87,7 @@
     "secondaryLinks": [
         {
             "label": "Message Me",
-            "url": "/",
+            "url": "/message me",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
