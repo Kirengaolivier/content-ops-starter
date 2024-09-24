@@ -10,7 +10,9 @@ sections:
     subtitle: >-
       I'm Olivier KIRENGA, a full-stack developer, Website Developer,  mobile
       software developer & USSD developer
-    text: ''
+    text: >
+      I'm Olivier KIRENGA, a full-stack developer, Website Developer,  mobile
+      software developer & USSD developer
     actions:
       - label: ABOUT ME
         altText: ''
