@@ -91,7 +91,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Message Me"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
