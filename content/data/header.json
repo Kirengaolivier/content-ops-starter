@@ -95,7 +95,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "L",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
