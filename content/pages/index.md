@@ -15,7 +15,7 @@ sections:
       - label: ABOUT ME
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
