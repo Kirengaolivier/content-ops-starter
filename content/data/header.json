@@ -71,7 +71,7 @@
                 {
                     "type": "Link",
                     "altText": "USSD Development",
-                    "url": "/",
+                    "url": "/ussd development",
                     "showIcon": true,
                     "icon": "facebook",
                     "iconPosition": "left",
