@@ -86,15 +86,6 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Projects",
-            "altText": "Sign up",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
             "label": "L",
             "url": "/",
             "icon": "arrowRight",
