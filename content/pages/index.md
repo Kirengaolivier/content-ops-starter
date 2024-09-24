@@ -66,7 +66,7 @@ sections:
         type: Button
     badge:
       label: ABOUT ME
-      color: text-primary
+      color: text-neutral
       styles:
         self:
           textAlign: center
