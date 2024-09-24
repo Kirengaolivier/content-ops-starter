@@ -53,30 +53,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: "I'm Olivier Kirenga, a software developer based in Rwanda and I'm currently a graduate at\_Rwanda Polytechnic / HUYE College. I'm a full stack developer who has every knowledge required to work on both application ends. I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences."
-    items:
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
+    items: []
     actions:
       - label: Get started
         altText: ''
