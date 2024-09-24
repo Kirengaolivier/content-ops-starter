@@ -42,6 +42,9 @@ sections:
       label: A full-stack developer
       color: text-primary
       type: Badge
+      styles:
+        self:
+          fontWeight: 700
     elementId: ''
     colors: bg-light-fg-dark
     styles:
