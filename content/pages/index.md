@@ -72,7 +72,7 @@ sections:
           textAlign: center
       type: Badge
     elementId: ''
-    variant: three-col-grid
+    variant: two-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
