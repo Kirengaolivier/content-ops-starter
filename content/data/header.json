@@ -34,7 +34,7 @@
         {
             "label": "My Skills",
             "altText": "My Skills",
-            "url": "/careers",
+            "url": "/my skills",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
