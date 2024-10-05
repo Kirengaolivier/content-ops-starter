@@ -123,9 +123,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      A Full-Stack Developer, Website Developer,  Mobile Software/Apps Developer
+      & USSD Developer
+
     actions:
       - label: Get started
         url: /
