@@ -583,6 +583,13 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
+        - type: TextFormControl
+          name: address
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
         - name: email
           label: Email
           hideLabel: true
@@ -597,13 +604,6 @@ sections:
           width: full
           type: TextareaFormControl
           isRequired: true
-        - type: TextFormControl
-          name: address
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
       elementId: contact-form
       styles:
         self:
