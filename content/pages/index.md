@@ -135,7 +135,7 @@ sections:
         type: Button
     media:
       url: /images/me.jpg
-      altText: ''
+      altText: me
       type: ImageBlock
     badge:
       label: This is a badge
