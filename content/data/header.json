@@ -33,7 +33,7 @@
         {
             "label": "My Skills",
             "altText": "My Skills",
-            "url": "/my skills",
+            "url": "https://olivierkirenga.netlify.app/#My Skills",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
