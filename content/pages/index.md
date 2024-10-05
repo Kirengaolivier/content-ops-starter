@@ -481,7 +481,7 @@ sections:
       type: TitleBlock
     subtitle: "Here are a few design projects I've worked on recently. Want to see more?\_Email me."
     items:
-      - title: Feature Item One
+      - title: Ngurira
         tagline: ''
         subtitle: This is the item subtitle
         text: |
