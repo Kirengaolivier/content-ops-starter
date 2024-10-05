@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      I'm **Olivier Kirenga**, a full-stack developer, Website Developer, 
-      mobile software developer & USSD developer
+      I'm **Olivier Kirenga**, A Full-Stack Developer, Website Developer, 
+      Mobile Software/Apps Developer & USSD Developer
     actions:
       - label: ABOUT ME
         altText: ''
