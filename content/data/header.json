@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "https://olivierkirenga.netlify.app/#Home",
+            "url": "/#Home",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
