@@ -20,7 +20,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:kirengaolivier1@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
