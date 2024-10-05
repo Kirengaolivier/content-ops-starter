@@ -569,11 +569,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      You want your project to get into action from ideas to a final product,
+      just send me a message and I will be glad to help you cover your dreams.
+
+
+      Feel free to let me know any of your feelings, ideas or suggestions, I
+      will be there to respond as quick as possible.
     media:
       fields:
         - name: name
