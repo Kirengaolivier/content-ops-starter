@@ -1,7 +1,7 @@
 ---
 title: Designer
 slug: case-study-1
-date: ''
+date: '2024-10-17'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
