@@ -479,7 +479,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: My Recent Work
+    subtitle: "Here are a few design projects I've worked on recently. Want to see more?\_Email me."
     items:
       - title: Feature Item One
         tagline: This is the tagline
