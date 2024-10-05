@@ -1,47 +1,59 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "img-left"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Home",
+            "url": "/#Home",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "altText": "Home"
+        },
+        {
+            "label": "About",
+            "altText": "About",
+            "url": "https://olivierkirenga.netlify.app/#About",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "My Skills",
+            "altText": "My Skills",
+            "url": "https://olivierkirenga.netlify.app/#My Skills",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
+            "label": "Services",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Software Engineering",
+                    "url": "/software engineering",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "Software Engineering"
+                },
+                {
+                    "label": "Website Development",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -49,7 +61,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Mobile Application Development",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -57,12 +69,15 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
+                    "type": "Link",
+                    "altText": "USSD Development",
+                    "url": "/ussd development",
+                    "showIcon": false,
+                    "icon": "facebook",
+                    "iconPosition": "left",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": "",
+                    "label": "USSD Development"
                 }
             ],
             "labelStyle": "secondary",
@@ -71,21 +86,13 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
+            "label": "Message Me",
+            "url": "mailto:kirengaolivier1@gmail.com",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Message Me"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
