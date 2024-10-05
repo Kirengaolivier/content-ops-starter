@@ -535,8 +535,8 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          A smart door solution that allows you to open a door remotely using
+          your smart phone
         image:
           url: /images/door.jpg
           altText: Placeholder image
