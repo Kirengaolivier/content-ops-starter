@@ -579,7 +579,7 @@ sections:
         - name: name
           label: Name
           hideLabel: true
-          placeholder: Full Name
+          placeholder: Your name
           isRequired: true
           width: full
           type: TextFormControl
