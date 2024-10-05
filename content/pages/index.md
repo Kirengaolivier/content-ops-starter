@@ -600,7 +600,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Write your message
+          placeholder: Your message
           width: full
           type: TextareaFormControl
           isRequired: true
