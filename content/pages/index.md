@@ -138,7 +138,7 @@ sections:
       altText: me
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: MAKIng your desires real
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
