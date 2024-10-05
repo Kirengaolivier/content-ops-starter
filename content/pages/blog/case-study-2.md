@@ -1,5 +1,5 @@
 ---
-title: Full-stack developer
+title: Full-Stack developer
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
