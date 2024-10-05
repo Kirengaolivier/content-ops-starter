@@ -135,7 +135,7 @@ sections:
         type: Button
     media:
       url: /images/me.jpg
-      altText: Dope design preview
+      altText: ''
       type: ImageBlock
     badge:
       label: This is a badge
