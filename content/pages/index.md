@@ -14,7 +14,7 @@ sections:
     actions:
       - label: ABOUT ME
         altText: ''
-        url: /
+        url: 'https://olivierkirenga.netlify.app/#contact'
         showIcon: false
         icon: chevronBigRight
         iconPosition: right
