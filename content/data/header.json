@@ -87,7 +87,7 @@
     "secondaryLinks": [
         {
             "label": "Message Me",
-            "url": "/message me",
+            "url": "mailto:kirengaolivier1@gmail.com",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
