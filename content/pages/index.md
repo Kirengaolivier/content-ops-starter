@@ -568,7 +568,7 @@ sections:
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >
       You want your project to get into action from ideas to a final product,
       just send me a message and I will be glad to help you cover your dreams.
