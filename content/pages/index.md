@@ -585,9 +585,9 @@ sections:
           type: TextFormControl
         - type: TextFormControl
           name: address
-          label: Name
+          label: Address
           hideLabel: true
-          placeholder: Your name
+          placeholder: Write your message
           isRequired: true
           width: full
         - name: email
