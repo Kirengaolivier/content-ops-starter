@@ -587,7 +587,7 @@ sections:
           name: address
           label: Address
           hideLabel: true
-          placeholder: Write your message
+          placeholder: Your address
           isRequired: true
           width: full
         - name: email
