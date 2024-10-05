@@ -129,7 +129,8 @@ sections:
 
     actions:
       - label: Get started
-        url: /
+        url: >-
+          https://wa.me/250788933222?text=Hey,%20Can%20I%20get%20more%20information%20on%20this
         icon: arrowRight
         iconPosition: right
         style: secondary
