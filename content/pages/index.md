@@ -482,7 +482,7 @@ sections:
     subtitle: "Here are a few design projects I've worked on recently. Want to see more?\_Email me."
     items:
       - title: Feature Item One
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
