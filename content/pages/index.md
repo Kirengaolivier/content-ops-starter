@@ -484,8 +484,9 @@ sections:
       - title: Ngurira
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          A project that has the aim of connecting farmers and buyers in order
+          to balance prices across the country
         image:
           url: /images/Ngurira.png
           altText: Placeholder Image
