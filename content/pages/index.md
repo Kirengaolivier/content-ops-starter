@@ -473,7 +473,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: My Recent Work
       color: text-primary
       styles:
         self:
