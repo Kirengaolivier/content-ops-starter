@@ -508,8 +508,11 @@ sections:
       - title: Abroadcorner Ltd
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Welcome to ABROADCORNER, your trusted visa consultation agency located
+          in Kigali, Rwanda. Since our founding in 2019, we have been dedicated
+          to guiding individuals through the complexities of visa applications
+          and ensuring a smooth, stress-free process for our clients.
         image:
           url: /images/abroad.png
           altText: Placeholder image
