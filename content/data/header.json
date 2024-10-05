@@ -24,7 +24,7 @@
         {
             "label": "About",
             "altText": "About",
-            "url": "/about",
+            "url": "https://olivierkirenga.netlify.app/#About",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
